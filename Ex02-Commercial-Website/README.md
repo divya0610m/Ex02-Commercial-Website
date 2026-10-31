@@ -877,13 +877,10 @@ footer {
 ```
 ## OUTPUT
 
-![alt text](<Screenshot 2026-10-31 152442-1.png>)
-
-![alt text](<Screenshot 2026-10-31 152501.png>)
-
-![alt text](<Screenshot 2026-10-31 152520.png>)
-
-![alt text](<Screenshot 2026-10-31 152541.png>)
+<img width="1846" height="1011" alt="Screenshot 2026-10-31 152541" src="https://github.com/user-attachments/assets/eba1b58f-dbb4-4618-a41e-dd34dcce8ac6" />
+<img width="1882" height="901" alt="Screenshot 2026-10-31 152501" src="https://github.com/user-attachments/assets/7c4f9124-b0ce-40ee-a2f5-4c54191f6ed3" />
+<img width="1891" height="1020" alt="Screenshot 2026-10-31 152520" src="https://github.com/user-attachments/assets/27276086-8b84-4e4a-b521-3d00229691bb" />
+<img width="1846" height="1011" alt="Screenshot 2026-10-31 152541" src="https://github.com/user-attachments/assets/017f41ca-6b19-452a-8c40-b444dad28bde" />
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
